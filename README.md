@@ -1,8 +1,9 @@
-# UTS PEMROGRAMAN MOBiLe 1
+# TUGAS PERTEMUAN 7
 
 ### Nama: Bagus aditya hemawan
 ### Nim: 312410382
 ### Kelas: TI.24.A.3
+### Mata kuliah: Pemrograman Mobile 1
 
 
 #### 1. Story board
