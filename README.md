@@ -6,7 +6,7 @@
 
 
 #### 1. Story board
-![Gambar 1](ss/png4.png.png)
+![Gambar 1](ss/png4.png)
 
 #### 2. Mockup
 ![Gambar 1](ss/png1.png)
